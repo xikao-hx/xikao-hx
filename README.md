@@ -1,38 +1,39 @@
 <div align="center">
 
-# Hi, I'm xikao-hx
+<h1>xikao-hx</h1>
 
-### Linux / Embedded / OS Learner
+<p>
+  <strong>Linux / Embedded / OS Learner</strong>
+</p>
 
-I enjoy exploring the boundary between software and hardware, from low-level drivers to operating system internals.
+<p>
+  <em>Exploring the boundary between software and hardware, from low-level drivers to operating system internals.</em>
+</p>
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,linux,git,bash,vim&theme=dark" alt="C, Linux, Git, Bash, Vim" />
+</p>
 
----
-
-## GitHub Summary
-
-<div align="center">
-
-<img width="684" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xikao-hx&theme=tokyonight" alt="Profile details" />
+<p>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/xv6--k210-1A1B27?style=flat-square&logo=github&logoColor=white" alt="xv6-k210" />
+  <img src="https://img.shields.io/badge/Kernel-70A5FD?style=flat-square&logo=linux&logoColor=white" alt="Kernel" />
+</p>
 
 <br />
 
-<img width="337" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xikao-hx&theme=tokyonight" alt="GitHub stats" />
-<img width="337" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xikao-hx&theme=tokyonight" alt="Repos per language" />
+<img width="1024" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xikao-hx&theme=tokyonight" alt="Profile details" />
 
-</div>
+<br />
 
----
+<img width="508" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xikao-hx&theme=tokyonight" alt="GitHub stats" />
+<img width="508" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xikao-hx&theme=tokyonight" alt="Repos per language" />
 
-<div align="center">
-
-<h3>Learning Close to the Metal</h3>
+<br />
+<br />
 
 <p>
-  <em>One board, one bug, one deeper layer at a time.</em>
+  <sub>Kernel internals · Embedded systems · Hardware-facing C</sub>
 </p>
-
-<sub>Kernel internals · Embedded systems · Hardware-facing software</sub>
 
 </div>
