@@ -1,39 +1,82 @@
 <div align="center">
 
-<h1>Hi, I'm xikao-hx</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,45:1e3a8a,100:06b6d4&amp;height=210&amp;section=header&amp;text=xikao-hx&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Embedded%20Linux%20%C2%B7%20RISC-V%20%C2%B7%20Operating%20Systems&amp;descAlignY=58&amp;animation=fadeIn" alt="xikao-hx header" />
 
-<h2>Linux / Embedded / OS Learner</h2>
-
-<h3>Exploring the boundary between software and hardware</h3>
-
-<p>
-  <img height="48" src="https://skillicons.dev/icons?i=c" alt="C" />
-  <img height="48" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img height="48" src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img height="48" src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img height="48" src="https://skillicons.dev/icons?i=vim" alt="Vim" />
-</p>
+<a href="https://github.com/xikao-hx">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Exploring+the+boundary+between+software+and+hardware;Building+on+Linux%2C+RISC-V+and+RTOS;Learning+systems+from+the+inside+out" alt="Typing introduction" />
+</a>
 
 <p>
-  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
-  <img src="https://img.shields.io/badge/xv6--k210-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="xv6-k210" />
-  <img src="https://img.shields.io/badge/Kernel-70A5FD?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel" />
+  <a href="https://github.com/xikao-hx?tab=followers"><img src="https://img.shields.io/github/followers/xikao-hx?style=flat-square&amp;color=0ea5e9&amp;labelColor=0f172a" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xikao-hx&amp;style=flat-square&amp;color=0ea5e9&amp;label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/xikao-hx?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-22c55e?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=0f172a" alt="Explore repositories" /></a>
 </p>
 
+</div>
+
+## About me
+
+```c
+struct developer {
+    const char *name;
+    const char *focus;
+    const char *interests[4];
+};
+
+struct developer me = {
+    .name = "xikao-hx",
+    .focus = "Embedded Linux & operating systems",
+    .interests = { "RISC-V", "Linux kernel", "RTOS", "hardware-facing C" },
+};
+```
+
+- Working close to the hardware, from boot flow and kernel drivers to inter-core communication.
+- Currently exploring Linux + RTOS AMP systems on the StarFive VisionFive 2.
+- Interested in small, understandable systems and the details hidden below abstractions.
+
+## Current focus
+
+| Area | What I am exploring |
+| :--- | :--- |
+| **Embedded Linux** | Kernel, device tree, drivers, Buildroot and board bring-up |
+| **RISC-V & AMP** | OpenSBI, U-Boot, Linux/RTOS resource isolation and inter-core mailbox |
+| **Operating systems** | Kernel internals, xv6 and the boundary between software and hardware |
+| **Reliable updates** | Boot-chain integration, A/B partitions and OTA workflows |
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vim,cmake&amp;theme=dark" alt="C, Linux, Bash, Git, GitHub, Vim and CMake" />
+
 <br />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xikao-hx&theme=tokyonight" alt="Profile details" />
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&amp;logo=riscv&amp;logoColor=white" alt="RISC-V" />
+<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux Kernel" />
+<img src="https://img.shields.io/badge/FreeRTOS-168363?style=for-the-badge&amp;logo=freertos&amp;logoColor=white" alt="FreeRTOS" />
+<img src="https://img.shields.io/badge/U--Boot-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="U-Boot" />
+<img src="https://img.shields.io/badge/Buildroot-334155?style=for-the-badge&amp;logo=gnu&amp;logoColor=white" alt="Buildroot" />
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xikao-hx&amp;theme=tokyonight" alt="GitHub contribution details" />
+
+<a href="https://github.com/xikao-hx?tab=repositories">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xikao-hx&amp;theme=tokyonight" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/xikao-hx?tab=repositories">
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xikao-hx&amp;layout=donut&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;text_color=cbd5e1&amp;icon_color=22c55e&amp;custom_title=Language%20Landscape" alt="Language landscape" />
+</a>
 
 <br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xikao-hx&theme=tokyonight" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xikao-hx&theme=tokyonight" alt="Repos per language" />
-
-<br />
 <br />
 
-<p>
-  <strong>Kernel internals · Embedded systems · Hardware-facing C</strong>
-</p>
+<sub><strong>Keep digging until the abstraction meets the hardware.</strong></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,45:1e3a8a,100:06b6d4&amp;height=110&amp;section=footer" alt="footer" />
 
 </div>
