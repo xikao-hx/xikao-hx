@@ -16,23 +16,11 @@
 
 ## About me
 
-```c
-struct developer {
-    const char *name;
-    const char *focus;
-    const char *interests[4];
-};
+> Embedded Linux learner, RISC-V enthusiast, and systems explorer.
 
-struct developer me = {
-    .name = "xikao-hx",
-    .focus = "Embedded Linux & operating systems",
-    .interests = { "RISC-V", "Linux kernel", "RTOS", "hardware-facing C" },
-};
-```
-
-- Working close to the hardware, from boot flow and kernel drivers to inter-core communication.
-- Currently exploring Linux + RTOS AMP systems on the StarFive VisionFive 2.
-- Interested in small, understandable systems and the details hidden below abstractions.
+🔭 Working close to the hardware—from boot flows and kernel drivers to inter-core communication.<br />
+🌱 Currently exploring Linux + RTOS AMP systems on the StarFive VisionFive 2.<br />
+⚙️ Interested in small, understandable systems and the details hidden below abstractions.
 
 ## Current focus
 
@@ -59,6 +47,45 @@ struct developer me = {
 
 </div>
 
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center">
+    <a href="https://github.com/xikao-hx/quard_star_visionfive2">VisionFive 2 AMP Platform</a>
+  </h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&amp;logo=riscv&amp;logoColor=white" alt="RISC-V" />
+    <img src="https://img.shields.io/badge/Linux-6.6-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux 6.6" />
+    <img src="https://img.shields.io/badge/FreeRTOS-168363?style=flat-square&amp;logo=freertos&amp;logoColor=white" alt="FreeRTOS" />
+  </p>
+  <details>
+    <summary><strong>Linux + RTOS on the VisionFive 2</strong></summary>
+    <br />
+    A complete RISC-V workspace spanning OpenSBI, U-Boot, Linux, Buildroot and FreeRTOS. Focused on AMP resource isolation, mailbox communication, NOR access and reliable OTA updates.
+  </details>
+  <p align="right"><a href="https://github.com/xikao-hx/quard_star_visionfive2"><strong>Explore project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center">
+    <a href="https://github.com/xikao-hx/xv6-k210-opensbi">xv6-k210-opensbi</a>
+  </h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/xv6-Kernel-1e3a8a?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="xv6 kernel" />
+    <img src="https://img.shields.io/badge/K210-Board-0ea5e9?style=flat-square" alt="K210" />
+    <img src="https://img.shields.io/badge/QEMU-Supported-22c55e?style=flat-square&amp;logo=qemu&amp;logoColor=white" alt="QEMU" />
+  </p>
+  <details>
+    <summary><strong>An extended xv6 kernel for RISC-V</strong></summary>
+    <br />
+    Runs on both QEMU and K210 hardware, with FAT32, COW, lazy allocation, mmap, signals, device drivers and high-speed UART-based SD card flashing.
+  </details>
+  <p align="right"><a href="https://github.com/xikao-hx/xv6-k210"><strong>Explore project →</strong></a></p>
+</td>
+</tr>
+</table>
+
 ## GitHub activity
 
 <div align="center">
@@ -66,11 +93,12 @@ struct developer me = {
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xikao-hx&amp;theme=tokyonight" alt="GitHub contribution details" />
 
 <a href="https://github.com/xikao-hx?tab=repositories">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xikao-hx&amp;theme=tokyonight" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xikao-hx&amp;theme=tokyonight" alt="GitHub statistics" />
 </a>
-<a href="https://github.com/xikao-hx?tab=repositories">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xikao-hx&amp;layout=donut&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;text_color=cbd5e1&amp;icon_color=22c55e&amp;custom_title=Language%20Landscape" alt="Language landscape" />
-</a>
+
+<h3>Languages across my repositories</h3>
+
+<img width="98%" src="assets/languages.svg" alt="Languages used across my GitHub repositories" />
 
 <br />
 <br />
